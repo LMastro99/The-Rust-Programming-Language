@@ -1,0 +1,1 @@
+/Users/louie/Code/books/the_rust_programming_language/01_getting_started/hello_cargo/target/debug/hello_cargo: /Users/louie/Code/books/the_rust_programming_language/01_getting_started/hello_cargo/src/main.rs
