@@ -23,4 +23,4 @@ Each chapter contains its own examples and exercises. Navigate to the specific c
 ## Progress
 
 - [x] Install Rust
-- [ ] Chapter 1: Getting Started
+- [x] Chapter 1: Getting Started
