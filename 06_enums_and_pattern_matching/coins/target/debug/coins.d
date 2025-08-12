@@ -1,0 +1,1 @@
+/Users/louie/Code/books/the_rust_programming_language/06_enums_and_pattern_matching/coins/target/debug/coins: /Users/louie/Code/books/the_rust_programming_language/06_enums_and_pattern_matching/coins/src/main.rs
