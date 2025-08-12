@@ -6,6 +6,7 @@ This repository contains my progress through "The Rust Programming Language" boo
 
 - `01_getting_started/` - Getting Started chapter exercises and examples
 - `02_programming_a_guessing_game/` - Programming a Guessing Game chapter exercises and examples
+- `03_common_programming_concepts/` - Common Programming Concepts chapter exercises and examples
 - More chapters will be added as I progress through the book
 
 ## Setup
@@ -26,3 +27,4 @@ Each chapter contains its own examples and exercises. Navigate to the specific c
 - [x] Install Rust
 - [x] Chapter 1: Getting Started
 - [x] Chapter 2: Programming a Guessing Game
+- [x] Chapter 3: Common Programming Concepts
