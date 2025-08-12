@@ -1,0 +1,1 @@
+/Users/louie/Code/books/the_rust_programming_language/04_understanding_ownership/slices/target/debug/slices: /Users/louie/Code/books/the_rust_programming_language/04_understanding_ownership/slices/src/main.rs
